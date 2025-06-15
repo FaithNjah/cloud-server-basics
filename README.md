@@ -19,7 +19,8 @@ This project showcases how I deployed a personal landing page built with Node.js
 2. Installed and configured Nginx reverse proxy
 3. Built a Node.js server and landing page
 4. Created a systemd service to keep the server running
-5. Deployed everything and tested it live
+5. Mapped public IP address to a custom subdomain (Custom domain setup using Duck DNS)
+6. Deployed everything and tested it live
 
 ---
 

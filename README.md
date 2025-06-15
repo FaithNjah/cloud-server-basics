@@ -8,7 +8,7 @@ This project showcases how I deployed a personal landing page built with Node.js
 
 ## 🚀 Live Site
 
-🌐 [http://13.61.174.137](http://13.61.174.137)
+🌐 [http://13.61.174.137](http://13.61.174.137:3000)
 ![Screenshot 2025-06-13 200227](https://github.com/user-attachments/assets/c74d4c02-4b25-4421-a3ae-26bc52bda333)
 
 ---
